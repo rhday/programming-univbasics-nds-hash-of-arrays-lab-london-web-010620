@@ -6,7 +6,6 @@ BASE_HOA = {
 
 
 def add_character(show, name)
-  BASE_HOA = character_hash
  character_hash[:chipmunks] << "Dave",
  
   # Write your implementation here
